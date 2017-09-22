@@ -1,0 +1,43 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto");
+body {
+  font-family: 'Roboto', Arial, sans-serif;
+  font-size: 16px;
+  background-color: #4d4d4d; }
+
+a {
+  text-decoration: none; }
+  a:visited {
+    color: #f2f2f2; }
+
+h1, h3 {
+  font-size: 2em;
+  text-align: center;
+  margin: 10px 0;
+  color: #f2f2f2; }
+
+h3 {
+  font-size: 1.4em; }
+
+svg {
+  display: block;
+  background-color: #1f78b4;
+  margin: 0 auto; }
+  svg.histogram {
+    margin-top: 1em; }
+
+.tooltip {
+  background: #fff;
+  max-width: 150px; }
+  .tooltip p {
+    font-size: 0.9em;
+    font-weight: 600;
+    margin: 5px 0;
+    text-align: center; }
+
+footer {
+  color: #f2f2f2; }
+  footer p {
+    text-align: center;
+    font-size: 0.9em; }
+
+/*# sourceMappingURL=style.css.map */
