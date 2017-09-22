@@ -1,5 +1,5 @@
 # Map of Meteorite Landings  
-FCC project: Map Meteorites Across the Globe.
+FCC project: Map Meteorites Across the Globe.  
 
 ## Data Visualization using D3.js.  
 
@@ -7,5 +7,6 @@ FCC project: Map Meteorites Across the Globe.
 * D3  
 * Sass  
 
-[Link to the chart](https://mar-bi.github.io/mapMeteoritesD3/)
+[Link to the chart](https://mar-bi.github.io/mapMeteoritesD3/index.html)
+
 

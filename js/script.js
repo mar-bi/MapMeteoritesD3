@@ -17,8 +17,8 @@ const width1 = 	(width / 1.5) + margin.left + margin.right,
 
 
 d3.queue()
-	.defer(d3.json, "world.geojson")
-	.defer(d3.json, "meteorite-strike-data.json")
+	.defer(d3.json, "js/world.geojson")
+	.defer(d3.json, "js/meteorite-strike-data.json")
 	.await(function(error, file1, file2) {
 		if (error) return console.error(error);
 		createMap(file1, file2);
