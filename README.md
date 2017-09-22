@@ -7,5 +7,5 @@ FCC project: Map Meteorites Across the Globe.
 * D3  
 * Sass  
 
-[Link to the chart](https://mar-bi.github.io/MapMeteoritesD3/index.html)
+[Link to the chart](https://mar-bi.github.io/mapMeteoritesD3/)
 
